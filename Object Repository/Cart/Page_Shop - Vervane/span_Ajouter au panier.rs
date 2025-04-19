@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ajouter au panier</name>
+   <tag></tag>
+   <elementGuidId>b124f415-0010-4f7b-ac20-f85edcfbcb58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.title-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[4]/div/div/div/div/div/div[2]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Ajouter au panier : “2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert”&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e57d5bb-3d7d-4790-a1cd-f5cf239980c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-cart</value>
+      <webElementGuid>7f9dab14-3fcb-49f4-9f5f-bdc064f56fe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ajouter au panier</value>
+      <webElementGuid>dd6201e3-9f19-4397-ba3a-978240d81179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;display-products products products-grid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;product type-product post-7115 status-publish first instock product_cat-promo product_cat-soin-visage has-post-thumbnail taxable shipping-taxable purchasable product-type-simple&quot;]/div[@class=&quot;product-block grid product v1&quot;]/div[@class=&quot;product-content&quot;]/div[@class=&quot;block-inner&quot;]/div[@class=&quot;group-add-to-cart&quot;]/div[@class=&quot;add-cart&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]/span[@class=&quot;title-cart&quot;]</value>
+      <webElementGuid>d9cd2ed7-f905-4f28-84ea-a8f1966a823f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[4]/div/div/div/div/div/div[2]/div/a/span</value>
+      <webElementGuid>c802b0f4-1369-47d7-be5c-f905d3ebc75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick View'])[1]/following::span[1]</value>
+      <webElementGuid>82a81d97-d891-4a1e-b74f-78e80b7b438a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Favoris'])[1]/following::span[2]</value>
+      <webElementGuid>da0d5b99-1150-4923-8b9b-fb443bbaa958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت'])[6]/preceding::span[2]</value>
+      <webElementGuid>ce6a9e4a-7b86-4b2b-a574-3c70ae1bec68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Favoris'])[2]/preceding::span[5]</value>
+      <webElementGuid>be1ec1fb-e9db-46db-8282-5854c0be313f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ajouter au panier']/parent::*</value>
+      <webElementGuid>5ae83318-4151-4e6e-9d8b-466bdc2f0daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/a/span</value>
+      <webElementGuid>b7c75efc-1b4a-4a7f-9e9b-4c7c4fc1e41d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ajouter au panier' or . = 'Ajouter au panier')]</value>
+      <webElementGuid>72134a04-6bca-407f-b45f-c46745c2f801</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

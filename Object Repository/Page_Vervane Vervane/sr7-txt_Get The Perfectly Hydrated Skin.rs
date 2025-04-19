@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sr7-txt_Get The Perfectly Hydrated Skin</name>
+   <tag></tag>
+   <elementGuidId>4f48fa6a-2457-4225-abda-3bcec251a3b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SR7_1_1-1-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//sr7-txt[@id='SR7_1_1-1-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Get The Perfectly Hydrated Skin&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>sr7-txt</value>
+      <webElementGuid>cd0d9f7c-6bec-46c4-9496-8f9fce1a5c85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SR7_1_1-1-1</value>
+      <webElementGuid>d122c37a-5d5c-44b4-92a7-bb3f681d970d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sr7-layer </value>
+      <webElementGuid>9b131b06-2da1-4bbb-bde0-ed0710660dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-order</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>0848a919-a2a0-49fb-9ae0-85d8004a5944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get The Perfectly Hydrated Skin </value>
+      <webElementGuid>1b216fcf-45d8-4fea-99d1-bcf7a97fff1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SR7_1_1-1-1&quot;)</value>
+      <webElementGuid>59ef1c56-023c-4574-9aee-b4b0d9a4cfe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//sr7-txt[@id='SR7_1_1-1-1']</value>
+      <webElementGuid>a26febd0-d3e2-4a8b-8afe-e23b029acec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//sr7-slide[@id='SR7_1_1-1']/sr7-txt[2]</value>
+      <webElementGuid>833ac2d5-219c-4ee3-a208-4c18f0cde4f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESSENSTIAL ITEMS'])[1]/following::sr7-txt[1]</value>
+      <webElementGuid>f9c86d45-4a5b-436c-b79b-ed83908c1423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have no recently viewed item.'])[1]/following::sr7-txt[2]</value>
+      <webElementGuid>3965f2cf-f944-4471-976a-6b58a4c31516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Découvrir'])[1]/preceding::sr7-txt[1]</value>
+      <webElementGuid>3ed1fc80-2901-4ec9-ad3a-72f3a4bef3ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our products are designed for everyone.'])[1]/preceding::sr7-txt[1]</value>
+      <webElementGuid>3c8cccd2-d77f-41fc-b29a-d09b588a7972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get The Perfectly Hydrated Skin']/parent::*</value>
+      <webElementGuid>8b299f36-2a8f-44c5-a4ef-7527d9e23aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sr7-txt[2]</value>
+      <webElementGuid>8edbd316-9d99-4f54-96f6-aa7d124fcd66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//sr7-txt[@id = 'SR7_1_1-1-1' and (text() = 'Get The Perfectly Hydrated Skin ' or . = 'Get The Perfectly Hydrated Skin ')]</value>
+      <webElementGuid>7c7936f1-52e5-437d-888a-fd2cf18d22e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Loading_Test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>37b30e66-f7cf-4497-b343-bf766a48c22c</testSuiteGuid>
+   <testCaseLink>
+      <guid>159673d2-fd73-4e6d-a2db-610b789191bb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'test@122example.com'</defaultValue>
+         <description></description>
+         <id>301845c4-fba9-4fea-9fee-f4bd6fe9efca</id>
+         <masked>false</masked>
+         <name>email</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/UserAccount/UserSignup/TC_SignUp_validEmailAccepted</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>318135a8-2072-4f9e-9509-eea2b28d59a5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>301845c4-fba9-4fea-9fee-f4bd6fe9efca</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

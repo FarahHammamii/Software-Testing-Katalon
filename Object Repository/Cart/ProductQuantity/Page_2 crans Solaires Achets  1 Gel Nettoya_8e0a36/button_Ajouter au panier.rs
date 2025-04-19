@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ajouter au panier</name>
+   <tag></tag>
+   <elementGuidId>f892a33b-7666-465b-8a74-7c51373690c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='add-to-cart']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;add-to-cart&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Ajouter au panier&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4216fced-fd46-4c2e-adfb-0feca847144b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>873ea954-81ad-40c7-87b3-5f9cd6a14cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>add-to-cart</value>
+      <webElementGuid>244c3abb-e145-4f36-a596-19161e6c1aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>7115</value>
+      <webElementGuid>1ecffbbe-5761-4e79-9678-4caac092810c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>single_add_to_cart_button button alt</value>
+      <webElementGuid>2629f008-6db0-4fb7-bcf1-ce4c3485ffc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ajouter au panier</value>
+      <webElementGuid>c99d3c9e-dcdc-4729-a3fb-a329572a8248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shop-now&quot;)/button[@class=&quot;single_add_to_cart_button button alt&quot;]</value>
+      <webElementGuid>4729ffd2-be9e-4bba-a755-28eb9ef6c491</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='add-to-cart']</value>
+      <webElementGuid>6a09ceb4-60f5-435b-9e6b-269601fd85d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shop-now']/button</value>
+      <webElementGuid>34108486-736e-4da6-bb18-e0e856de7ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='quantité de 2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert'])[1]/following::button[3]</value>
+      <webElementGuid>a3e7f1fc-a48a-41aa-af7f-0d01ac97168f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت'])[5]/following::button[3]</value>
+      <webElementGuid>33871a1e-4fa7-4ed0-ae42-22f497730c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Now'])[1]/preceding::button[1]</value>
+      <webElementGuid>564a4e24-6482-4366-a93e-5417226b8893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Favoris'])[1]/preceding::button[2]</value>
+      <webElementGuid>09499e20-99bc-431a-8f08-a0965ef052dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/button</value>
+      <webElementGuid>4832c7d3-2d41-496f-9179-4aafc30ec1ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'add-to-cart' and (text() = 'Ajouter au panier' or . = 'Ajouter au panier')]</value>
+      <webElementGuid>0b924850-949a-4361-b5ed-c3a70802d95c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

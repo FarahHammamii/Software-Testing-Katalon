@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2 crans Solaires Achets  1 Gel Nettoyan_3cecfe</name>
+   <tag></tag>
+   <elementGuidId>cc73d4c3-f6b5-4f00-b57a-4371ed75786c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.woocommerce-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;«2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert» a été ajouté à votre panier&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c7b75ba-cafc-4986-bbb2-9d7f308fcb49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-message</value>
+      <webElementGuid>06f4ecf9-24a6-4555-a7b4-0cff059a2b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>1257e85a-494f-47ad-b04e-54039ba70c58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1dfc9850-958d-453b-902f-993bec447df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		«2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert» a été ajouté à votre panier. Voir le panier	</value>
+      <webElementGuid>8fc6594c-379b-4126-b303-3f64bf7a1670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;woocommerce-notices-wrapper&quot;]/div[@class=&quot;woocommerce-message&quot;]</value>
+      <webElementGuid>8ca1ff9f-da8f-4c96-8ba3-3afda11d49eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div</value>
+      <webElementGuid>e026513d-7ee9-4377-b6c2-3ad177a93f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Le prix actuel est : د.ت 46,000.'])[1]/following::div[5]</value>
+      <webElementGuid>68b6b8bb-8fb0-4e19-a42a-6772f0f14544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت'])[8]/following::div[5]</value>
+      <webElementGuid>51c80c73-3866-4738-bd5a-bb7f325bd40a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت'])[9]/preceding::div[5]</value>
+      <webElementGuid>1b2bd73f-303f-45d5-820b-e6a598f528ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='«2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert» a été ajouté à votre panier.']/parent::*</value>
+      <webElementGuid>ebce69ce-50f3-4ad2-a8e7-3fdbd50b75f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div</value>
+      <webElementGuid>ab608b9c-a9d7-457d-9846-e8da1137cfdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+		«2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert» a été ajouté à votre panier. Voir le panier	' or . = '
+		«2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert» a été ajouté à votre panier. Voir le panier	')]</value>
+      <webElementGuid>bfee4156-d4c4-4631-b1cb-09469b002ada</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

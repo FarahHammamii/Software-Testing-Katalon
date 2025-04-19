@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddArticlesIntoChart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>77c5dddc-891b-45a3-926f-14722fd4915a</testCaseGuid>
+</TestCaseEntity>

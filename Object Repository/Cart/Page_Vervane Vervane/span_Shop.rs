@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shop</name>
+   <tag></tag>
+   <elementGuidId>72da4923-7c04-4af1-9760-e6811326bbb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.shop > span.menu-icon-child</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper-container']/div[3]/div/div[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Shop&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3ba64567-0049-422a-9114-75ccc24d8b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-icon-child</value>
+      <webElementGuid>0048280a-fd07-4280-90e8-5599f1bb407d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop</value>
+      <webElementGuid>4550f434-6bed-4e54-9693-96e9078ca07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper-container&quot;)/div[@class=&quot;footer-device-mobile d-xl-none clearfix&quot;]/div[@class=&quot;list-menu-icon&quot;]/div[@class=&quot;menu-icon&quot;]/a[@class=&quot;shop&quot;]/span[@class=&quot;menu-icon-child&quot;]</value>
+      <webElementGuid>493e2826-dc11-4cd9-a050-1c9c95d4a606</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper-container']/div[3]/div/div[3]/a/span</value>
+      <webElementGuid>ee84b165-4e0b-4975-a385-7bbd124f5707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::span[1]</value>
+      <webElementGuid>e887cdd0-24c8-4500-a052-675a58d8703d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/following::span[3]</value>
+      <webElementGuid>5d632efe-c4a9-4f99-9dd6-ba232fd1ff42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[1]/preceding::span[4]</value>
+      <webElementGuid>d76b7eb9-8c6f-4bf8-a342-7d9831da8c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span</value>
+      <webElementGuid>7d33ae97-cd37-4d0f-8903-43d512c1bb5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shop' or . = 'Shop')]</value>
+      <webElementGuid>0abfe947-084b-4a92-b397-581a177d9986</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

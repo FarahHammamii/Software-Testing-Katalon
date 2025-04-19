@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Checkout_tb-icon tb-icon-cart</name>
+   <tag></tag>
+   <elementGuidId>56c21399-1122-4648-b854-c90cfa8588c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.tb-icon.tb-icon-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-HithP']/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; 1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1ab74526-2557-4534-976a-a92afd702559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tb-icon tb-icon-cart</value>
+      <webElementGuid>1e2d864a-68db-4d8e-88ac-bd3f83a4ff90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-HithP&quot;)/a[@class=&quot;dropdown-toggle mini-cart v2&quot;]/i[@class=&quot;tb-icon tb-icon-cart&quot;]</value>
+      <webElementGuid>19b17cc2-91eb-43e4-9aa7-346572ae618c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-HithP']/a/i</value>
+      <webElementGuid>557735c4-46b1-4fa8-9bc1-14a72667af05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/a/i</value>
+      <webElementGuid>9c2a7a95-2378-4796-a50c-bc4c2eea047b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

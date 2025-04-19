@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Enregistrer les modifications</name>
+   <tag></tag>
+   <elementGuidId>a79d28f5-bf42-493c-b710-25d9b9d5e3a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='save_account_details']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;save_account_details&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Enregistrer les modifications&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f1e51adb-34bd-4bde-8669-f70ba20ab5ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>937e1529-db17-49bb-b7d5-d289bdabe778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Button button</value>
+      <webElementGuid>d4e6e857-0a8d-4888-b72b-b257af0c5695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>save_account_details</value>
+      <webElementGuid>75fbfe19-324c-4d00-beca-f894c126b61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Enregistrer les modifications</value>
+      <webElementGuid>aec2bc1a-c12f-49c0-b5ef-77e5be5ca4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enregistrer les modifications</value>
+      <webElementGuid>28763256-61f7-49ae-aef4-42ae7211367d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-MyAccount-content&quot;]/form[@class=&quot;woocommerce-EditAccountForm edit-account&quot;]/p[5]/button[@class=&quot;woocommerce-Button button&quot;]</value>
+      <webElementGuid>e12ea76c-714e-4bed-a306-5a72fda18c26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='save_account_details']</value>
+      <webElementGuid>497195cd-5ced-48d4-acf3-e8ba9f7f610c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/form/p[5]/button</value>
+      <webElementGuid>ca7322b5-c6e4-46e0-ad92-0718ecba4733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmer le nouveau mot de passe'])[1]/following::button[2]</value>
+      <webElementGuid>9b7896a8-c22c-4d9b-894c-e848870955af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nouveau mot de passe (laisser vide pour conserver l’actuel)'])[1]/following::button[3]</value>
+      <webElementGuid>9214d01b-0bd8-4839-8a9e-2d12de886fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::button[1]</value>
+      <webElementGuid>3a26789e-ac7b-4859-be8d-ddcd6d8af9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appelez-nous'])[2]/preceding::button[1]</value>
+      <webElementGuid>ace9366d-80a4-44b7-b916-68720ddd03a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enregistrer les modifications']/parent::*</value>
+      <webElementGuid>327fa014-7604-4eac-8a2b-abeeb65edf53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]/button</value>
+      <webElementGuid>1aed08a5-6863-4a1b-92ba-5a25ee86e8b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'save_account_details' and (text() = 'Enregistrer les modifications' or . = 'Enregistrer les modifications')]</value>
+      <webElementGuid>acb31f71-fded-4a60-ab78-ea73c6462600</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

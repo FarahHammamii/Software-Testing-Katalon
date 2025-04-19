@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Top_tb-icon tb-icon-close-01</name>
+   <tag></tag>
+   <elementGuidId>abf09846-6f01-4d6e-97fa-4074bf77fd14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-close > i.tb-icon.tb-icon-close-01</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='custom-login-wrapper']/div/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6c31bbfd-4317-479c-85f5-d98b5ddd12a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tb-icon tb-icon-close-01</value>
+      <webElementGuid>b3df2175-4e9c-4f9d-bf59-ed8c5d0cabed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custom-login-wrapper&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content woocommerce-account&quot;]/button[@class=&quot;btn-close&quot;]/i[@class=&quot;tb-icon tb-icon-close-01&quot;]</value>
+      <webElementGuid>c5784545-be3f-49b7-bcae-25ee9a7bdae5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='custom-login-wrapper']/div/div/button/i</value>
+      <webElementGuid>f1670a48-ad30-46e9-a9c6-c3733e87bd11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button/i</value>
+      <webElementGuid>b4217220-a022-4acd-8546-d9821e4da2a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

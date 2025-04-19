@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Maison</name>
+   <tag></tag>
+   <elementGuidId>43a3d431-320a-41b4-9c8d-28cf648017cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-1-93pSw > li.menu-item.menu-item-type-taxonomy.menu-item-object-product_cat.menu-item-6682 > a.elementor-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu-1-93pSw']/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Maison &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a1151779-0935-4ee4-914a-3137e5a3aeed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-item</value>
+      <webElementGuid>739f5213-61ae-4ed0-a908-a6e28254f25d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://vervane.tn/product-category/maison/</value>
+      <webElementGuid>9ea42d4b-b524-42bb-a3fd-c8cf18bbd1e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maison</value>
+      <webElementGuid>5f5f3499-4077-436c-a6e2-92099feab0b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-1-93pSw&quot;)/li[@class=&quot;menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6682&quot;]/a[@class=&quot;elementor-item&quot;]</value>
+      <webElementGuid>e60ead86-e2a2-406e-a739-8c1ff66bc355</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu-1-93pSw']/li[6]/a</value>
+      <webElementGuid>38bb0db5-057e-41ce-92f4-21d965db2f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corps'])[2]/following::a[1]</value>
+      <webElementGuid>6b1628f4-f015-4099-8b82-fc4d86eecdbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cheveux'])[2]/following::a[2]</value>
+      <webElementGuid>3797b524-9d15-4e34-8091-3ce14f420b37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Packs'])[2]/preceding::a[1]</value>
+      <webElementGuid>9155c124-0ee7-405e-9e12-6345e819a96b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://vervane.tn/product-category/maison/')])[4]</value>
+      <webElementGuid>b32abe51-c804-4e6f-a7d1-718aa12bf342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/nav/ul/li[6]/a</value>
+      <webElementGuid>9d8c0b71-19b1-4adf-b400-6e5b225c179a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://vervane.tn/product-category/maison/' and (text() = 'Maison' or . = 'Maison')]</value>
+      <webElementGuid>9fff899a-908d-434c-a045-5b3167334378</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

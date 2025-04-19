@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_XSS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf4b4f3b-4e49-433d-b3d0-e7c5d0a08a00</testCaseGuid>
+</TestCaseEntity>

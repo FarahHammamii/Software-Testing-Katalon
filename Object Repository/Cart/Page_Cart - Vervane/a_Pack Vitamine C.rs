@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pack Vitamine C</name>
+   <tag></tag>
+   <elementGuidId>8f63c7ac-609a-43fc-877c-280ad296e629</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wc-block-components-product-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Pack Vitamine C&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>db565b53-0820-4734-a1a2-7828aa252424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wc-block-components-product-name</value>
+      <webElementGuid>75fa2a70-1830-4140-9b03-89c07227e107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://vervane.tn/produit/pack-vitamine-c/</value>
+      <webElementGuid>bb610373-52c2-4d98-b148-6e60fbc379ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pack Vitamine C</value>
+      <webElementGuid>e7a0e5d9-90c4-4e12-b08b-c1c7fd41e76c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;wp-block-woocommerce-cart alignwide&quot;]/div[4]/div[1]/div[@class=&quot;wc-block-components-sidebar-layout wc-block-cart wp-block-woocommerce-filled-cart-block is-large&quot;]/div[@class=&quot;wc-block-components-main wc-block-cart__main wp-block-woocommerce-cart-items-block&quot;]/table[@class=&quot;wc-block-cart-items wp-block-woocommerce-cart-line-items-block&quot;]/tbody[1]/tr[@class=&quot;wc-block-cart-items__row&quot;]/td[@class=&quot;wc-block-cart-item__product&quot;]/div[@class=&quot;wc-block-cart-item__wrap&quot;]/a[@class=&quot;wc-block-components-product-name&quot;]</value>
+      <webElementGuid>553d0969-7755-46ef-aded-729233861417</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/a</value>
+      <webElementGuid>28ca09f8-6bb9-4139-bceb-fc640ad1dda3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pack Vitamine C')]</value>
+      <webElementGuid>f9446a52-7669-4834-bce8-f7dd8b517e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::a[2]</value>
+      <webElementGuid>da8b61b2-82cc-4026-a586-8dab0c4199fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Détails'])[1]/following::a[2]</value>
+      <webElementGuid>dd2c94f2-05b0-4d11-85c8-7c7c3e861011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prix précédent :'])[1]/preceding::a[1]</value>
+      <webElementGuid>76680c71-8417-4b84-81af-824c30e0e6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت 105,000'])[1]/preceding::a[1]</value>
+      <webElementGuid>c0a533ad-b71a-4bb5-bb67-399a90bbdda6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pack Vitamine C']/parent::*</value>
+      <webElementGuid>df34d3c9-3ae7-4a13-bc79-5d3319c58ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://vervane.tn/produit/pack-vitamine-c/')])[2]</value>
+      <webElementGuid>ef9e3e85-3ae9-475d-bd1d-1a33e98c8d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/a</value>
+      <webElementGuid>6b834b69-c61e-4ec1-a287-29103538bb72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://vervane.tn/produit/pack-vitamine-c/' and (text() = 'Pack Vitamine C' or . = 'Pack Vitamine C')]</value>
+      <webElementGuid>34a86acb-cf19-4430-81ae-8b6fe026576f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

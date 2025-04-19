@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_About Us</name>
+   <tag></tag>
+   <elementGuidId>e74f4600-08c8-417b-9da6-02419fcb4a17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-6206 > a.elementor-item > span.menu-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-6206']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;About Us &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>90705375-04c8-4c75-bd85-1ab6ad5b87e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>723c25a7-4d2f-45f4-9f06-76a7c616bd27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About Us</value>
+      <webElementGuid>4510f054-e0dd-4889-bc14-456d0879ef93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-6206&quot;)/a[@class=&quot;elementor-item&quot;]/span[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>8f7e1be9-0ddb-436a-96a4-fcb1c80fe38b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-6206']/a/span</value>
+      <webElementGuid>f4c5dba1-9ae0-4e9f-a926-36fd0d790b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laissez ce champ vide si vous êtes humain :'])[1]/following::span[1]</value>
+      <webElementGuid>fdda6cdf-e131-4f1f-8d9d-1503098dd340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQs'])[1]/preceding::span[1]</value>
+      <webElementGuid>c1f8f6b8-8cfd-409a-9773-4df2ef401e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::span[2]</value>
+      <webElementGuid>3effb9aa-2094-41a9-a4f3-32a890504bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='About Us']/parent::*</value>
+      <webElementGuid>0e58983a-aaed-4456-800c-e212564f7a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div[2]/div/div/div/div/nav/ul/li/a/span</value>
+      <webElementGuid>07cfdb6b-90f0-41f5-8df4-fe787dfea8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'About Us' or . = 'About Us')]</value>
+      <webElementGuid>e7e5766a-cbb3-4aa6-a4c1-1faffa4a2f74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>5bac3e08-efb6-4cfd-ad87-eecec4fbd02c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/div[3]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.wc-block-components-quantity-selector__button.wc-block-components-quantity-selector__button--plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Augmenter la quantité de 2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e856d8bf-3b1d-46fc-ba30-3f3852a9023b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Augmenter la quantité de 2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert</value>
+      <webElementGuid>eb7fa30b-90bc-464c-86b9-15243c5b54eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wc-block-components-quantity-selector__button wc-block-components-quantity-selector__button--plus</value>
+      <webElementGuid>b4825ec9-d771-4b55-8296-4d28e1332ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>＋</value>
+      <webElementGuid>2741819a-0511-4918-a522-db8a6b433c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;wp-block-woocommerce-cart alignwide&quot;]/div[4]/div[1]/div[@class=&quot;wc-block-components-sidebar-layout wc-block-cart wp-block-woocommerce-filled-cart-block is-large&quot;]/div[@class=&quot;wc-block-components-main wc-block-cart__main wp-block-woocommerce-cart-items-block&quot;]/table[@class=&quot;wc-block-cart-items wp-block-woocommerce-cart-line-items-block&quot;]/tbody[1]/tr[@class=&quot;wc-block-cart-items__row&quot;]/td[@class=&quot;wc-block-cart-item__product&quot;]/div[@class=&quot;wc-block-cart-item__wrap&quot;]/div[@class=&quot;wc-block-cart-item__quantity&quot;]/div[@class=&quot;wc-block-components-quantity-selector&quot;]/button[@class=&quot;wc-block-components-quantity-selector__button wc-block-components-quantity-selector__button--plus&quot;]</value>
+      <webElementGuid>04025085-47c4-49aa-9efb-81e29489fb71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/div[3]/div/button[2]</value>
+      <webElementGuid>a3f16ae2-7165-4f0b-b43f-b3ac890e395b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='－'])[1]/following::button[1]</value>
+      <webElementGuid>3b920e81-29d1-4cf2-a0a4-5f192edec21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت 76,000'])[1]/following::button[2]</value>
+      <webElementGuid>1b63cb4c-7f1c-4db6-a296-f37cf6335a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supprimer l’élément'])[1]/preceding::button[1]</value>
+      <webElementGuid>f65b6d1e-5479-48e9-b2fa-4411be76cece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت 76,000'])[2]/preceding::button[2]</value>
+      <webElementGuid>c41ca747-9732-44e0-bdb3-880351c2fc28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='＋']/parent::*</value>
+      <webElementGuid>f06017cc-6e9e-4cb0-9fa0-cb2df1b03f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>c96f1e4b-8e22-4745-9987-92cbb355c1ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '＋' or . = '＋')]</value>
+      <webElementGuid>043a3df7-3f2e-4f07-a3fd-7db11518c027</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

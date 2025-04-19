@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the login form properly rejects invalid or non-existent email addresses.</description>
+   <name>TC_SignUp_InvalidEmailAccepted</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a0e1cb3-e987-4866-8000-b7c5985cc599</testCaseGuid>
+</TestCaseEntity>

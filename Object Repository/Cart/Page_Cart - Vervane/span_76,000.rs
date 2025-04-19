@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_76,000</name>
+   <tag></tag>
+   <elementGuidId>d4b23e37-1fcd-4aa3-9d03-46b1b8a55acb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.wc-block-formatted-money-amount.wc-block-components-formatted-money-amount.wc-block-components-product-price__value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;د.ت 76,000&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c054893-696f-4a1d-8b87-a0926de00f13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wc-block-formatted-money-amount wc-block-components-formatted-money-amount wc-block-components-product-price__value</value>
+      <webElementGuid>b4300a52-9731-4cc6-8e30-7b7e37c26393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>د.ت 76,000</value>
+      <webElementGuid>dcb66356-e3d1-46b9-9d76-fb7044918197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;wp-block-woocommerce-cart alignwide&quot;]/div[4]/div[1]/div[@class=&quot;wc-block-components-sidebar-layout wc-block-cart wp-block-woocommerce-filled-cart-block is-medium&quot;]/div[@class=&quot;wc-block-components-main wc-block-cart__main wp-block-woocommerce-cart-items-block&quot;]/table[@class=&quot;wc-block-cart-items wp-block-woocommerce-cart-line-items-block&quot;]/tbody[1]/tr[@class=&quot;wc-block-cart-items__row&quot;]/td[@class=&quot;wc-block-cart-item__product&quot;]/div[@class=&quot;wc-block-cart-item__wrap&quot;]/div[@class=&quot;wc-block-cart-item__prices&quot;]/span[@class=&quot;price wc-block-components-product-price&quot;]/span[@class=&quot;wc-block-formatted-money-amount wc-block-components-formatted-money-amount wc-block-components-product-price__value&quot;]</value>
+      <webElementGuid>bdd41237-d377-4b82-a8b7-06dd0818041b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/div/span/span</value>
+      <webElementGuid>791baf77-f61b-45f9-823d-8a17309a599f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::span[2]</value>
+      <webElementGuid>7fff9179-a164-4a0a-8587-38ba7c4daeb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Détails'])[1]/following::span[3]</value>
+      <webElementGuid>dbb04cc3-bcf8-4791-bbc6-f440e245624b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='－'])[1]/preceding::span[1]</value>
+      <webElementGuid>8df95b4b-fc6c-4a34-b16e-b1f131345c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='＋'])[1]/preceding::span[1]</value>
+      <webElementGuid>7ba929c7-f5d6-422d-8f6d-3336ee84f369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='د.ت 76,000']/parent::*</value>
+      <webElementGuid>5d5110fd-7a31-433c-be06-f202e362e7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/span</value>
+      <webElementGuid>7cd8e7f8-afca-4023-a3c2-95ca5806ce62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'د.ت 76,000' or . = 'د.ت 76,000')]</value>
+      <webElementGuid>035c2dec-5a12-4551-b3bb-9b420e6e9c56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

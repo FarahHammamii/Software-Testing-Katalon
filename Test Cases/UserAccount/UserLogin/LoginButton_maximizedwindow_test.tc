@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>here the problem is corrected, then its clear the the web isnt reponsive</description>
+   <name>LoginButton_maximizedwindow_test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a54b6d15-bcbe-4120-a238-b241a15ec4a6</testCaseGuid>
+</TestCaseEntity>

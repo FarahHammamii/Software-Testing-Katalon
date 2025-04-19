@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Tlphone</name>
+   <tag></tag>
+   <elementGuidId>a17db17d-0b62-4481-bc92-d9b866d6fd6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='billing_phone_field']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#billing_phone_field > label.required_field</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Téléphone *&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d51ac4f8-c619-45df-b33d-5840d04c09a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>billing_phone</value>
+      <webElementGuid>fa3fe426-662f-47fc-b946-3427ef407187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>required_field</value>
+      <webElementGuid>e28f687e-26a6-450d-ada4-5735637948e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Téléphone *</value>
+      <webElementGuid>746abc5c-da5a-41ef-b8fe-c16702fcc637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;billing_phone_field&quot;)/label[@class=&quot;required_field&quot;]</value>
+      <webElementGuid>5976f138-1fcc-431a-ac0e-6f1ff090e2ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='billing_phone_field']/label</value>
+      <webElementGuid>568cc382-5819-46cb-b8c8-52943fb89791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunisie'])[1]/preceding::label[1]</value>
+      <webElementGuid>b2ed5483-59b0-44cd-a4ed-b4dda50f712c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je voudrais recevoir des e-mails exclusifs avec des réductions et des informations sur le produit'])[1]/preceding::label[1]</value>
+      <webElementGuid>7bd7a005-dca6-441c-9867-4829b285d6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/label</value>
+      <webElementGuid>9dda8e99-624e-45b4-ac19-3ddf1e3c4d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Téléphone *' or . = 'Téléphone *')]</value>
+      <webElementGuid>78a7c22f-ae49-4b4f-9205-ca605c16aed6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

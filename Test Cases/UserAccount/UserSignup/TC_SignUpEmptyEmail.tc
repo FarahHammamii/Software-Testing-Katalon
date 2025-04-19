@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SignUpEmptyEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce73fc8c-d8c3-4495-be9a-83c0a2ca5394</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Appelez-nous_tb-icon tb-icon-account</name>
+   <tag></tag>
+   <elementGuidId>6fa37ef3-90c1-4360-86e0-d71cc51eada9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.account-button > i.tb-icon.tb-icon-account</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='tbay-header']/div/section[2]/div/div[4]/div/div/div/div/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.account-button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e6d48757-4089-4081-bfb1-3ee66786cc80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f640be64-dc5b-4e1d-b563-33de37dc79ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tb-icon tb-icon-account</value>
+      <webElementGuid>148e77d1-3484-4059-907b-acce1d5c6c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbay-header&quot;)/div[@class=&quot;elementor elementor-51&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-73fc734 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b54d16e&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-41757a2 w-auto elementor-widget w-auto elementor-widget-tbay-account&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;tbay-element tbay-element-account header-icon&quot;]/div[@class=&quot;tbay-login&quot;]/a[@class=&quot;account-button&quot;]/i[@class=&quot;tb-icon tb-icon-account&quot;]</value>
+      <webElementGuid>1437db49-1b3d-46ca-b84f-bea7288d18cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='tbay-header']/div/section[2]/div/div[4]/div/div/div/div/div/a/i</value>
+      <webElementGuid>309a1053-be2e-4e89-8831-28980630d600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/a/i</value>
+      <webElementGuid>62c33dc7-74e4-45cd-9096-4ab54cf5dc1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

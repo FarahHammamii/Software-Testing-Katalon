@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ajouter au panier</name>
+   <tag></tag>
+   <elementGuidId>452c5be0-5e38-4e5c-9b18-1f8b47410cdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.title-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/section[3]/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Ajouter au panier : “Pack Vitamine C”&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0aa7dd4c-1311-4f53-a540-c26233a8cbd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-cart</value>
+      <webElementGuid>132b857a-b0e3-4b22-a79a-225797e8761b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ajouter au panier</value>
+      <webElementGuid>5fa21f26-a8ba-412c-a429-28a0a3be1e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;elementor elementor-23&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-1eaa35f elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeInUp&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-66407db&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-669c503 elementor-product-v1 elementor-widget elementor-widget-tbay-products&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;tbay-element tbay-element-products&quot;]/div[@class=&quot;products row grid products&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;products-grid product type-product post-6626 status-publish first instock product_cat-nos-packs product_cat-promo product_cat-soin-visage product_tag-anti-ageing product_tag-skincare product_tag-vitaminec has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple&quot;]/div[@class=&quot;product-block grid product v1&quot;]/div[@class=&quot;product-content&quot;]/div[@class=&quot;block-inner&quot;]/div[@class=&quot;group-add-to-cart&quot;]/div[@class=&quot;add-cart&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]/span[@class=&quot;title-cart&quot;]</value>
+      <webElementGuid>e939ebf1-40f1-4d00-8142-4cc10dad3342</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/section[3]/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/a/span</value>
+      <webElementGuid>cc8c12b3-a905-46c6-945f-be425858acc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick View'])[1]/following::span[1]</value>
+      <webElementGuid>148f2bcb-8ba4-452b-abac-9c0def76204b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Favoris'])[1]/following::span[2]</value>
+      <webElementGuid>bf4ba37d-f4b3-4cd7-a56c-b88c6d9bcf73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[1]/preceding::span[2]</value>
+      <webElementGuid>a27f7684-2118-47d0-8196-9cbccf841931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pack Vitamine C'])[1]/preceding::span[4]</value>
+      <webElementGuid>040e0d05-9d23-48a4-9f57-1b4f6bc4d754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ajouter au panier']/parent::*</value>
+      <webElementGuid>091177eb-d4d9-45af-9d4c-a2e041e53f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/a/span</value>
+      <webElementGuid>2b55ac9d-f04c-464e-a5c4-eb1d5e3fbe6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ajouter au panier' or . = 'Ajouter au panier')]</value>
+      <webElementGuid>0bafa593-ad52-47b9-a062-ddd98d49c048</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

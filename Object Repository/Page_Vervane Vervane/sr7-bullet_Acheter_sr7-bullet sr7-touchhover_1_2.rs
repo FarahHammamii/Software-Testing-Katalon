@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sr7-bullet_Acheter_sr7-bullet sr7-touchhover_1_2</name>
+   <tag></tag>
+   <elementGuidId>5fc16c66-d867-4ff0-ada7-aa488e1f65a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//sr7-module[@id='SR7_1_1']/sr7-content/sr7-bullets/sr7-bullet[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>sr7-bullet.sr7-bullet.sr7-touchhover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>sr7-bullet >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>sr7-bullet</value>
+      <webElementGuid>8dd62b74-e85c-4aec-a638-fdb7263b2096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sr7-bullet sr7-touchhover</value>
+      <webElementGuid>0abc337b-17c8-495f-afe6-6e29d7c36f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>4628f14b-a9fa-41ed-8a3d-e66b6f2edcf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SR7_1_1&quot;)/sr7-content[1]/sr7-bullets[@class=&quot;sr7-bullets revo-tbay-bullets sr7-ndh sr7-nphc sr7-npvb sr7-touchhover&quot;]/sr7-bullet[@class=&quot;sr7-bullet sr7-touchhover&quot;]</value>
+      <webElementGuid>5abeecf7-9f9c-411a-9e27-14b5916c8ed0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//sr7-module[@id='SR7_1_1']/sr7-content/sr7-bullets/sr7-bullet[2]</value>
+      <webElementGuid>f427eec2-76c2-4dc0-94b3-c52b2e063095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sr7-bullet[2]</value>
+      <webElementGuid>3fe1a6b0-3efe-44e8-bc73-278d14550f1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

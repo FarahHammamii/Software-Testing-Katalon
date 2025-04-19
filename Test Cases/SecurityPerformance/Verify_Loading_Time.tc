@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vérifier le temps de chargement du site (ne dépasse pas 3s).</description>
+   <name>Verify_Loading_Time</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67cdf92e-d7d3-4ade-b001-3d63f32b35e6</testCaseGuid>
+</TestCaseEntity>

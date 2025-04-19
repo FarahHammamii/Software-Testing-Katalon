@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SignUp_ExistingEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc330b03-b39d-444d-8a0a-c8d360f77395</testCaseGuid>
+</TestCaseEntity>

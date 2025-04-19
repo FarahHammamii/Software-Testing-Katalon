@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2 crans Solaires Achets  1 Gel Nettoyant Offert</name>
+   <tag></tag>
+   <elementGuidId>0210d21a-4282-4f4f-b04e-30fb6eb8e1a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wc-block-components-product-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cac7415a-7504-4e3f-b3c5-74b534f1f2c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wc-block-components-product-name</value>
+      <webElementGuid>82f694db-4e01-4907-9fac-2a3636309375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://vervane.tn/produit/2-ecrans-solaires-achetes-1-gel-nettoyant-offert/</value>
+      <webElementGuid>8b510685-53c9-405b-b02b-33ff151db9bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert</value>
+      <webElementGuid>409ddf7a-9fdd-43bb-9bd5-045d79cdb8a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;wp-block-woocommerce-cart alignwide&quot;]/div[4]/div[1]/div[@class=&quot;wc-block-components-sidebar-layout wc-block-cart wp-block-woocommerce-filled-cart-block is-large&quot;]/div[@class=&quot;wc-block-components-main wc-block-cart__main wp-block-woocommerce-cart-items-block&quot;]/table[@class=&quot;wc-block-cart-items wp-block-woocommerce-cart-line-items-block&quot;]/tbody[1]/tr[@class=&quot;wc-block-cart-items__row&quot;]/td[@class=&quot;wc-block-cart-item__product&quot;]/div[@class=&quot;wc-block-cart-item__wrap&quot;]/a[@class=&quot;wc-block-components-product-name&quot;]</value>
+      <webElementGuid>2c33ff47-fb0b-4921-9dfe-92da8274d389</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/a</value>
+      <webElementGuid>80563aa0-55cc-471d-9c71-d0f9e5dbfda3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert')]</value>
+      <webElementGuid>a4420812-37e4-4520-8f63-060c43540737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::a[2]</value>
+      <webElementGuid>8095a2b4-7e62-4247-8980-01c10b32276b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Détails'])[1]/following::a[2]</value>
+      <webElementGuid>25825ff3-bd63-43ad-b0bb-ea326e99d268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت 76,000'])[1]/preceding::a[1]</value>
+      <webElementGuid>f665cbb9-33b0-45d3-a649-599c2c4225c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='－'])[1]/preceding::a[1]</value>
+      <webElementGuid>42f9b7cd-91f5-4e54-9dbb-de4ccfdf8c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert']/parent::*</value>
+      <webElementGuid>d927c1c7-a73b-4f17-8ad7-a7a20005a12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://vervane.tn/produit/2-ecrans-solaires-achetes-1-gel-nettoyant-offert/')])[3]</value>
+      <webElementGuid>af49d212-0ab1-43b9-8760-c5684eed95a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/a</value>
+      <webElementGuid>605b7df1-a012-4c06-a1ee-d8fc39ed8f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://vervane.tn/produit/2-ecrans-solaires-achetes-1-gel-nettoyant-offert/' and (text() = '2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert' or . = '2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert')]</value>
+      <webElementGuid>365fd678-b70c-40ed-91b1-5e6da9542744</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

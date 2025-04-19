@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>f6df8e52-1097-4897-bf6d-abf5b6f2bc79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tbay-login > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='tbay-header']/div/section[2]/div/div[4]/div/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.tbay-login > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3cd3fa73-c6e6-41a5-b369-37e56cad34df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>3c128970-3746-4993-87c9-d4838596f780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#custom-login-wrapper</value>
+      <webElementGuid>42ac1ded-f82c-4863-bfc1-b6de29062379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>d86e9444-a118-4bd2-a76b-5c7ceb3d7b5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbay-header&quot;)/div[@class=&quot;elementor elementor-51&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-73fc734 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b54d16e&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-41757a2 w-auto elementor-widget w-auto elementor-widget-tbay-account&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;tbay-element tbay-element-account header-icon&quot;]/div[@class=&quot;tbay-login&quot;]/a[1]</value>
+      <webElementGuid>f2b8b9e5-67d7-4241-9423-e158facb7395</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='tbay-header']/div/section[2]/div/div[4]/div/div/div/div/div/a</value>
+      <webElementGuid>a1043dc6-18b9-4fd6-9368-82054aa07f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appelez-nous'])[1]/following::a[1]</value>
+      <webElementGuid>b6eb570c-9891-44e4-861a-7725ab0ea658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uncategorized  (3)'])[3]/following::a[3]</value>
+      <webElementGuid>b58408e0-174d-48e7-ba67-cbe549fe112f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your cart is empty'])[2]/preceding::a[3]</value>
+      <webElementGuid>1484df24-1b36-48bf-841c-b90a7f413127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[2]/preceding::a[3]</value>
+      <webElementGuid>f5d1ff58-16e7-439b-9fa2-127cb976ef0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[3]</value>
+      <webElementGuid>6709567c-97a1-4624-adae-ddc8c7674a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/a</value>
+      <webElementGuid>2fe516d0-23d9-49ed-a9df-ddbf1e0e85b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)']</value>
+      <webElementGuid>68b5f889-7433-48e2-9dd1-b1ddb201a2f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

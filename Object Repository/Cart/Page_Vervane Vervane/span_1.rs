@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>870a69b9-e2d4-41f1-b1a3-91f5793ec283</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.cart-icon > span.mini-cart-items</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-wOJoI']/a/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; 1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9122591f-90a4-4227-b200-3eecacdb3d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mini-cart-items</value>
+      <webElementGuid>29ba604f-233a-4e90-acc5-ac0e68744d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>7b506718-de13-4311-b7c2-ee73bc723b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-wOJoI&quot;)/a[@class=&quot;dropdown-toggle mini-cart&quot;]/span[@class=&quot;cart-icon&quot;]/span[@class=&quot;mini-cart-items&quot;]</value>
+      <webElementGuid>cf378d9c-b393-4131-8cd7-2cf477f19837</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-wOJoI']/a/span/span</value>
+      <webElementGuid>d1e0676e-8bd5-49a0-9c3f-c260e14f71bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appelez-nous'])[1]/following::span[4]</value>
+      <webElementGuid>38edd4e8-c411-45bd-86fe-71d8799cf86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uncategorized  (3)'])[3]/following::span[4]</value>
+      <webElementGuid>2e8011a6-f0d0-4c6a-902f-f3e6631295d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pack Vitamine C'])[2]/preceding::span[1]</value>
+      <webElementGuid>27b7411d-10d6-419f-8162-e1354ee38efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='quantité de Pack Vitamine C'])[2]/preceding::span[2]</value>
+      <webElementGuid>7bc7d303-3aec-4a00-9559-3f128ca2db6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/a/span/span</value>
+      <webElementGuid>f8e232d3-4928-4f9e-ab60-8e01a30bc08d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>6cf8869d-fe77-4d4f-a345-353960d8a55e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

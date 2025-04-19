@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Specific logout button goona redirect you to another site</description>
+   <name>logout_redirection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18ef5c48-5794-41ef-82fc-29e463bb5d48</testCaseGuid>
+</TestCaseEntity>

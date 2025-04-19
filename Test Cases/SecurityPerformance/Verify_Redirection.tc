@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Redirection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31a73091-1e38-4f9c-9891-c7112c0ecc7f</testCaseGuid>
+</TestCaseEntity>

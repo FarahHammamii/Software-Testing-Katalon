@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cheveux</name>
+   <tag></tag>
+   <elementGuidId>c636803b-253a-4724-942b-fa5e8dbc5ea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-1-513Xr > li.menu-item.menu-item-type-taxonomy.menu-item-object-product_cat.menu-item-6680 > a.elementor-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu-1-513Xr']/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Cheveux &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8a84a30d-fe22-46c2-bcb9-17733ce2fe1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-item</value>
+      <webElementGuid>62cba025-4ff8-4908-af21-073924cc3f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://vervane.tn/product-category/soin-cheveux/</value>
+      <webElementGuid>c7f74184-7c26-438f-ac19-0f19b9f8bceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cheveux</value>
+      <webElementGuid>ec3b5dd8-4d31-4391-8388-9c051f0c3fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-1-513Xr&quot;)/li[@class=&quot;menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6680&quot;]/a[@class=&quot;elementor-item&quot;]</value>
+      <webElementGuid>a4f0dc96-e53a-41de-b8a5-5c1072b5615e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu-1-513Xr']/li[4]/a</value>
+      <webElementGuid>ef0ffae2-b30a-4e9b-bb92-0fff13f63c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visage'])[2]/following::a[1]</value>
+      <webElementGuid>3131eb9e-a30d-4403-a3b8-946a52bc824e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop'])[3]/following::a[2]</value>
+      <webElementGuid>b562ee1e-f2d6-4028-a96a-93c5d78f8c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corps'])[2]/preceding::a[1]</value>
+      <webElementGuid>bf7c6631-e5ac-4983-98aa-3de37f1deb29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://vervane.tn/product-category/soin-cheveux/')])[9]</value>
+      <webElementGuid>4a2563ef-7457-426a-ac74-a63dcce5e49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/nav/ul/li[4]/a</value>
+      <webElementGuid>fe43029c-96c5-457a-a2f1-3b90cf672344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://vervane.tn/product-category/soin-cheveux/' and (text() = 'Cheveux' or . = 'Cheveux')]</value>
+      <webElementGuid>f087836c-7c23-46e6-8b53-c2480df8cb4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

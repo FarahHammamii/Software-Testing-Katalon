@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySessionExpiration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>245044e6-70c9-4f3c-8252-fa44ca3ffc7c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Wishlist_tb-icon tb-icon-account</name>
+   <tag></tag>
+   <elementGuidId>9ab9b6c1-b46b-43c2-a471-b6d1e0ee4011</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.tb-icon.tb-icon-account</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper-container']/div[3]/div/div[5]/a/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Account&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9064e74a-6534-4cf2-8dc0-e0168791392b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tb-icon tb-icon-account</value>
+      <webElementGuid>c8e2a4d7-4770-4a30-ba10-6b8ff08fd0b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper-container&quot;)/div[@class=&quot;footer-device-mobile d-xl-none clearfix&quot;]/div[@class=&quot;list-menu-icon&quot;]/div[@class=&quot;menu-icon&quot;]/a[@class=&quot;account&quot;]/span[@class=&quot;menu-icon-child&quot;]/i[@class=&quot;tb-icon tb-icon-account&quot;]</value>
+      <webElementGuid>48b1b50c-ed65-494e-a66b-d7e32658b689</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper-container']/div[3]/div/div[5]/a/span/i</value>
+      <webElementGuid>5567cb43-44be-4316-a098-4a2188d3a280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/span/i</value>
+      <webElementGuid>a19f8093-70ed-44b4-8399-5e789bd344e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

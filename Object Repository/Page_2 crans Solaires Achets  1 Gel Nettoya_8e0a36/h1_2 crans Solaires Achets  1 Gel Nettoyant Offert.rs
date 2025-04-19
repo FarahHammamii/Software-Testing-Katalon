@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_2 crans Solaires Achets  1 Gel Nettoyant Offert</name>
+   <tag></tag>
+   <elementGuidId>ba34e3bc-821d-4efc-bfaa-9e87b7b4896c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.product_title.entry-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-7115']/div/div/div[2]/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>h1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>8b8a9767-b77f-4121-99f0-cf76d01d675e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_title entry-title</value>
+      <webElementGuid>38752058-edd8-4916-a49b-cc5dedf27a0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert</value>
+      <webElementGuid>123b19d6-9274-4e96-94ce-7224bb3116d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-7115&quot;)/div[@class=&quot;single-main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;information col-lg-6&quot;]/div[@class=&quot;summary entry-summary&quot;]/div[@class=&quot;top-single-product&quot;]/h1[@class=&quot;product_title entry-title&quot;]</value>
+      <webElementGuid>d1bf43dc-e70b-495c-87d6-fdda7f25a5fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-7115']/div/div/div[2]/div/div/h1</value>
+      <webElementGuid>946fa08a-de9c-40ec-9fbe-da65c86338ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت'])[4]/following::h1[1]</value>
+      <webElementGuid>13474e81-2e84-4997-9fe2-34d03c5ca325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[1]/following::h1[1]</value>
+      <webElementGuid>cc13c058-c764-471f-bcf9-71f0c9bb7025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gratuitement'])[1]/preceding::h1[1]</value>
+      <webElementGuid>6c75fd68-1d9a-4c10-864b-5045d5a7576b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت'])[5]/preceding::h1[1]</value>
+      <webElementGuid>82a430fa-2f07-478e-8c03-7fd9e8496306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>989b9aa5-31e1-4e2d-b3e1-2552ff96bd6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert' or . = '2 Écrans Solaires Achetés = 1 Gel Nettoyant Offert')]</value>
+      <webElementGuid>3f46e6b9-e2ff-4895-ae1f-064fe11bd09b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

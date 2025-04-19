@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Appelez-nous_tb-icon tb-icon-shopping-cart</name>
+   <tag></tag>
+   <elementGuidId>73023d75-89c6-4821-824d-7d77dad06780</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.tb-icon.tb-icon-shopping-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-ON2ud']/a/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; 1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1194207d-1671-4619-ae17-1537960ca7ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tb-icon tb-icon-shopping-cart</value>
+      <webElementGuid>546c8043-868a-45fd-8d16-5e8bd51b055e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-ON2ud&quot;)/a[@class=&quot;dropdown-toggle mini-cart show&quot;]/span[@class=&quot;cart-icon&quot;]/i[@class=&quot;tb-icon tb-icon-shopping-cart&quot;]</value>
+      <webElementGuid>8a1eaa47-b3c3-4cb7-bd91-2c498b3eb322</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-ON2ud']/a/span/i</value>
+      <webElementGuid>82680f53-cbbb-4785-b8be-9fc14612655c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/a/span/i</value>
+      <webElementGuid>6113d461-9ff2-4660-8f3e-59b5714d5229</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

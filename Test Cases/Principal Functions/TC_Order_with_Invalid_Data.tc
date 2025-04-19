@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test ensures that the order form cannot be submitted when the user enters incorrect or incomplete information (e.g., invalid email format, missing required fields, or incorrect phone number). The goal is to verify that proper error messages are displayed and the order process is blocked.</description>
+   <name>TC_Order_with_Invalid_Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c83a183d-6508-4469-ad23-6204bdeb5523</testCaseGuid>
+</TestCaseEntity>

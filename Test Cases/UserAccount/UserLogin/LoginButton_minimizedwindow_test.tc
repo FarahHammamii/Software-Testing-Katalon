@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test is expected to fail due to the lack of responsiveness of the web page. Specifically, the login button is only visible when the browser window is maximized. When the window is minimized or resized to a smaller width, the button either disappears or is hidden within a menu, making it inaccessible to the script. As a result, the script fails to locate and interact with the login button under non-maximized window conditions.</description>
+   <name>LoginButton_minimizedwindow_test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03d75ae4-da98-4090-8425-347a35eddc94</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Huile Horse Tail</name>
+   <tag></tag>
+   <elementGuidId>f4b74549-8fb9-42f8-9a82-bdc3cfaa8b6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-6922']/div/div/div[2]/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.product_title.entry-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>h1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>bac61253-ecf3-47ca-b267-c2b13a4b5648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_title entry-title</value>
+      <webElementGuid>e0cfe13a-5e61-4712-8f4a-dab5f8e03c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Huile Horse Tail</value>
+      <webElementGuid>8aa46330-1aab-4d4d-9f9d-89e54d14c41d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-6922&quot;)/div[@class=&quot;single-main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;information col-lg-6&quot;]/div[@class=&quot;summary entry-summary&quot;]/div[@class=&quot;top-single-product&quot;]/h1[@class=&quot;product_title entry-title&quot;]</value>
+      <webElementGuid>0f1f3f06-5cd3-4547-ac67-fff0465f1302</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-6922']/div/div/div[2]/div/div/h1</value>
+      <webElementGuid>b333494d-e5af-4191-9fdd-66cf8c733607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت'])[6]/following::h1[1]</value>
+      <webElementGuid>639672e8-4f2e-420e-8274-38da35634324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[1]/following::h1[1]</value>
+      <webElementGuid>35585153-b8c0-43ae-b9d6-d91bc7b798b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Huile Horse Tail de Vervane 100ml'])[1]/preceding::h1[1]</value>
+      <webElementGuid>97a1d67d-d048-4560-987a-6d74e1a411e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت'])[7]/preceding::h1[1]</value>
+      <webElementGuid>1d2f74e2-11de-4c6a-be20-4b59365d1ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>e3b73e6d-bdf5-4972-abc4-e6ffb2a6a0ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Huile Horse Tail' or . = 'Huile Horse Tail')]</value>
+      <webElementGuid>0f54f6ff-f02d-40ca-8fde-c8c8a654d66d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

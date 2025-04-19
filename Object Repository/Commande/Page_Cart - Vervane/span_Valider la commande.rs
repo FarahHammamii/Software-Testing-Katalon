@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Valider la commande</name>
+   <tag></tag>
+   <elementGuidId>e1147eab-ef00-4488-9a46-4a5af42a5661</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[4]/div/div/div[3]/div[3]/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.wc-block-components-button__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Valider la commande&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dea0f0e4-f699-4a81-94b5-85816ccae44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wc-block-components-button__text</value>
+      <webElementGuid>2ac1df00-40e9-4c8e-96a6-eb7e42e67340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Valider la commande</value>
+      <webElementGuid>c68a3a8e-c7ab-4de0-ad97-e78202d31bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;wp-block-woocommerce-cart alignwide&quot;]/div[4]/div[1]/div[@class=&quot;wc-block-components-sidebar-layout wc-block-cart wp-block-woocommerce-filled-cart-block is-large&quot;]/div[@class=&quot;wc-block-components-sidebar wc-block-cart__sidebar wp-block-woocommerce-cart-totals-block&quot;]/div[@class=&quot;wc-block-cart__submit wp-block-woocommerce-proceed-to-checkout-block&quot;]/div[@class=&quot;wc-block-cart__submit-container&quot;]/a[@class=&quot;wc-block-components-button wp-element-button wc-block-cart__submit-button contained&quot;]/span[@class=&quot;wc-block-components-button__text&quot;]</value>
+      <webElementGuid>53577404-289d-4c10-a122-3268160b99d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[4]/div/div/div[3]/div[3]/div[2]/a/span</value>
+      <webElementGuid>782e1ac8-7b11-4839-aaa0-16f38db5da60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='د.ت 76,000'])[3]/following::span[1]</value>
+      <webElementGuid>1c7f68d9-d3b7-486d-a326-c042214e9739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/following::span[2]</value>
+      <webElementGuid>b267caa9-235f-45c5-ac3f-55abd0cc7c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::span[1]</value>
+      <webElementGuid>9b3d4fbd-9d22-40f5-960c-0977d7531605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appelez-nous'])[2]/preceding::span[1]</value>
+      <webElementGuid>916bd1f9-5c6c-416e-a1bf-e4fde5d8ceef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Valider la commande']/parent::*</value>
+      <webElementGuid>bbb2e3a3-db73-4bbe-b84b-74c0688e617c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a/span</value>
+      <webElementGuid>5cfb6540-93e5-4b9f-9b83-ac2479a89e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Valider la commande' or . = 'Valider la commande')]</value>
+      <webElementGuid>01513dfb-dd1e-4356-a939-631d5ba69e73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

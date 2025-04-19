@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sr7-txt_ESSENSTIAL ITEMS</name>
+   <tag></tag>
+   <elementGuidId>53154295-cc62-4620-a713-2083f0b86d05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SR7_1_1-1-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//sr7-txt[@id='SR7_1_1-1-0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ESSENSTIAL ITEMS&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>sr7-txt</value>
+      <webElementGuid>ef4fbed6-207a-4c3f-909b-a114b314f510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SR7_1_1-1-0</value>
+      <webElementGuid>40c1e40a-3081-4ba0-94e1-c779e3623bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sr7-layer </value>
+      <webElementGuid>8faae443-2f50-4006-a8c0-aa009ac46f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-order</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>f70aa57e-78a0-41e1-a7ec-d21a980ad01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ESSENSTIAL ITEMS </value>
+      <webElementGuid>99914a7d-09a2-44d1-8a46-7ab8ee0bad02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SR7_1_1-1-0&quot;)</value>
+      <webElementGuid>b1999261-6225-4c1b-ab40-84f76d3d0ae7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//sr7-txt[@id='SR7_1_1-1-0']</value>
+      <webElementGuid>18ad381f-d994-4417-b9b5-7a2003704e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//sr7-slide[@id='SR7_1_1-1']/sr7-txt</value>
+      <webElementGuid>63fe067c-d271-4789-8bd8-258ba75e2b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have no recently viewed item.'])[1]/following::sr7-txt[1]</value>
+      <webElementGuid>6c37c92d-d0b8-4b34-8253-1ffa81a49a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recently Viewed'])[1]/following::sr7-txt[1]</value>
+      <webElementGuid>a621f807-cfb5-4564-bc94-34fd248db4e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get The Perfectly Hydrated Skin'])[1]/preceding::sr7-txt[1]</value>
+      <webElementGuid>343f8327-2412-419e-a3eb-20b193c36438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Découvrir'])[1]/preceding::sr7-txt[2]</value>
+      <webElementGuid>96a9f3a0-da4f-46be-9db4-d1f7f89bc964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ESSENSTIAL ITEMS']/parent::*</value>
+      <webElementGuid>f4ab1875-8553-401a-985d-2f7996ccdbbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sr7-txt</value>
+      <webElementGuid>c0ecb6e5-5ea3-4536-84f0-a3672b14e110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//sr7-txt[@id = 'SR7_1_1-1-0' and (text() = 'ESSENSTIAL ITEMS ' or . = 'ESSENSTIAL ITEMS ')]</value>
+      <webElementGuid>3f0524cb-e7c5-439f-b148-7e7adc1d5c81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

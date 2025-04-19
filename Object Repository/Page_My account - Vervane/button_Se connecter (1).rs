@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Se connecter (1)</name>
+   <tag></tag>
+   <elementGuidId>bf58bc3c-eb6c-4662-a2d7-916c00ee097a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='login']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;login&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Se connecter&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b6eb22aa-1a42-42dc-8f93-f1443b07da48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ee5451cb-8bfe-484b-9ff7-173a03a9b1f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-button button woocommerce-form-login__submit</value>
+      <webElementGuid>ea5da13a-60a4-4947-9802-ed98bfcefb62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>5733a6d5-7aa2-4ee4-a212-e52768fde568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Se connecter</value>
+      <webElementGuid>e6a30356-c54d-49ed-a1b5-b49f6825bd6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Se connecter</value>
+      <webElementGuid>f4d3fbee-a951-4a53-ace7-8cfece1d9da6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_login&quot;)/div[@class=&quot;u-column1 col-1&quot;]/form[@class=&quot;woocommerce-form woocommerce-form-login login&quot;]/p[@class=&quot;form-row&quot;]/button[@class=&quot;woocommerce-button button woocommerce-form-login__submit&quot;]</value>
+      <webElementGuid>2f917a41-f3f5-4ad0-a087-1d02eb957644</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='login']</value>
+      <webElementGuid>40469a78-8ecc-4fbf-af0a-6327fd29ce0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer_login']/div/form/p[3]/button</value>
+      <webElementGuid>255af5fb-704d-489a-9bb6-db07f9bcee6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se souvenir de moi'])[1]/following::button[1]</value>
+      <webElementGuid>01645858-a345-4390-9334-6bf0ea1f1ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Obligatoire'])[2]/following::button[2]</value>
+      <webElementGuid>2bef75aa-72a6-4c36-a07d-8abf7b914bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mot de passe perdu ?'])[1]/preceding::button[1]</value>
+      <webElementGuid>8cab9268-fd7e-490a-95f0-d92d391317bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S’inscrire'])[1]/preceding::button[1]</value>
+      <webElementGuid>6f92eeae-41c1-4c9b-8c01-dc621ce2992c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/button</value>
+      <webElementGuid>c7e41a6c-775e-46b3-8d75-2611899cb2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'login' and (text() = 'Se connecter' or . = 'Se connecter')]</value>
+      <webElementGuid>290f44f3-acdd-4a01-a38c-d558f0d9ebd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
